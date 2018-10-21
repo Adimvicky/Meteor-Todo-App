@@ -1,0 +1,11 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+li.checked {
+  text-decoration: line-through;
+}
